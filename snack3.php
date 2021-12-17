@@ -68,6 +68,6 @@ $postsKeys = array_keys($posts)
         
         
         
-    };
+    }
 ?>
 
